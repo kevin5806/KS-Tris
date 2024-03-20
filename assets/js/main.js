@@ -53,7 +53,7 @@ function tris (box) {
                     case 8: b8 = 1; break;
                     case 9: b9 = 1; break;
                 }
-                document.getElementById("message").innerHTML = "È il tuorno della O";
+                document.getElementById("message").innerHTML = "È il turno della O";
             }   
 
         } else {
